@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FocusMark" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/focus_mark_background</item>
+        <item name="android:statusBarColor">@color/focus_mark_background</item>
+        <item name="android:navigationBarColor">@color/focus_mark_background</item>
+    </style>
+    <style name="Theme.FocusMark.Block" parent="Theme.FocusMark">
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

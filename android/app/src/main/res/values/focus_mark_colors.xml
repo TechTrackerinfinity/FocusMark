@@ -1,0 +1,4 @@
+<resources>
+    <color name="focus_mark_background">#F5F7F0</color>
+    <color name="focus_mark_icon_background">#203A2A</color>
+</resources>

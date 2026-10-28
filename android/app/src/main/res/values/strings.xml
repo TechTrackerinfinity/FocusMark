@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FocusMark</string>
+    <string name="accessibility_service_label">FocusMark protection</string>
+    <string name="accessibility_service_description">FocusMark blocks selected apps during focus hours and enforces a combined daily allowance of 100 Shorts and Reels. It processes visible feed labels and supported browsers’ address labels locally, leaves blocked content, and saves only counts and rules. A requested pause requires a 20-minute wait and lasts 10 minutes.</string>
+</resources>
